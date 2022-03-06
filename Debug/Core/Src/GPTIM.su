@@ -1,0 +1,6 @@
+GPTIM.c:4:6:TIM_EnableClock	16	static
+GPTIM.c:8:6:TIM_Init	16	static
+GPTIM.c:15:6:TIM_Start	16	static
+GPTIM.c:20:6:TIM_Stop	16	static
+GPTIM.c:24:15:TIM_CheckFlag	16	static
+GPTIM.c:28:6:TIM2_IRQHandler	8	static
